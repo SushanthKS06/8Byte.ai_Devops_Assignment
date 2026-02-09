@@ -252,5 +252,6 @@ These trade-offs were intentionally kept to keep the assignment simple and focus
 ## Author
 
 **K. S. Sushanth**  
-DevOps / Backend Engineering Candidate  
+DevOps / Backend Engineering Intern Candidate  
 8byte Internship Assignment
+
