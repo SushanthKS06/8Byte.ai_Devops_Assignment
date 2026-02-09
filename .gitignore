@@ -1,0 +1,12 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+
+# Node
+app/node_modules
+
+# OS / IDE
+.DS_Store
+.vscode

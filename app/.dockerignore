@@ -1,0 +1,5 @@
+node_modules
+.git
+.github
+terraform
+README.md
